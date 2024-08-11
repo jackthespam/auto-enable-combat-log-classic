@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: Auto Enable Combat Log
+## Notes: Start combat log when entering raid
+## Author: Vacalogia@Lone-Wolf
+## Version: 0.99.0
+## RequiredDeps: Ace3, LibStub
+
+auto-enable-combat-log-classic.lua
